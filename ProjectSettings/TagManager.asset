@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - rock
+  - armo
+  - Energy
+  - Background
+  - Coin
+  - StrongArmor
+  - SkillBoss
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - top1
+  - top2
+  - top3
+  - background
+  - PlayerLayer
+  - EnemyLayer
+  - PlayerBullet
+  - EnemyBullet
+  - TerrainLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: top1
+    uniqueID: 2924369929
+    locked: 0
+  - name: top2
+    uniqueID: 262964019
+    locked: 0
+  - name: top3
+    uniqueID: 3186496141
+    locked: 0
+  - name: background
+    uniqueID: 301984623
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: bdf9ddb68268b0b4790052cb86b851f0
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/WaitingScene.unity
+    guid: 6b0dddba0368e3842964c82b313fb2a2
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: f91dd10f8ee6a8a4a99ec1518893bf3d
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: 2367d54f2f252b041982efa48492813d
+  - enabled: 1
+    path: Assets/Scenes/SideScroller_Level01.unity
+    guid: 9380c96d42614564e8c6298fb8211c49
+  - enabled: 1
+    path: Assets/Scenes/SideScroller_Level02.unity
+    guid: 4782d400c93071f45ad73564076930e0
+  - enabled: 1
+    path: Assets/Scenes/SideScroller_Level03.unity
+    guid: 9cc507d6efa508847acf4003491c4212
+  - enabled: 1
+    path: Assets/Scenes/SideScroller_Level04.unity
+    guid: 669723a22ec295d4896d7e5392cd3b47
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: ba0192abaa2d83746b173599768a8b49
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
